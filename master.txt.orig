@@ -1,0 +1,13 @@
+This is check file
+Updating this file on 20th July
+This update is from git bash
+
+Updating this file on 21st July
+Updating this file on 21st July Evening
+Updating this file on 21st July Evening Again
+<<<<<<< HEAD
+Updating this file on 21st July Evening Again and Again
+=======
+Write something new now
+>>>>>>> 9d53907 (new change add9)
+
